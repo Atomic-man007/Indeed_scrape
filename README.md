@@ -23,7 +23,7 @@ start_number = 2 # Change based on availabe job post
 
 ## Final Data
 
-Please refer to the sample output data for [Jobs](data/job-2023-02-20-190145-python%20developer-2_records-china.xlsx) for your reference
+Please refer to the sample output data for [Jobs](job-2023-02-20-190145-python%20developer-2_records-china.xlsx) for your reference
 
 ## Sample output
 ![](sample.png)
